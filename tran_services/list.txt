@@ -1,0 +1,2 @@
+可用的翻译提供者：
+translate                       translate Python 库，免费且有限制
